@@ -266,7 +266,7 @@
     default_value: ''
     allow_multiple_values: true
     required: false
-    model: redshift_model
+    model: compute_model
     explore: redshift_queries
     listens_to_filters: []
     field: redshift_queries.pdt
